@@ -1,0 +1,64 @@
+{
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar{
+    background-color: rgb(48, 48, 48);
+    color: aliceblue;
+    padding: 30px;
+    text-align: center;
+}
+.navbar a{
+    padding: 50px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    color: rgb(136, 172, 132);
+}
+
+
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #62816297;
+    color: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+    
+.space{
+
+    height: 150px;
+    position: ab;
+    left: 20px;
+    top: 20px;
+
+}
+
+.logo{
+    height: 60px;
+    position: left;
+    left: 10px;
+    top: 20px;
+}
+
+
+.container {
+    max-width: 80px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+
+
+
+.product img {
+    max-width: 30%;
+    border-radius: 10px;
+}
+
